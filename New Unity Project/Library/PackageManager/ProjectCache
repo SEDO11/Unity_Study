@@ -1,217 +1,31 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/donha/AppData/Local/Temp/70c682f07f84a2d43a3e7ae7095a29da/Packages/manifest.json
+    m_FilePath: C:/git/Unity_Study/New Unity Project/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637703285356383036
-    m_Hash: 644486751
+      ticks: 637857809900385730
+    m_Hash: 2649009015
   m_LockFileStatus:
-    m_FilePath: C:/Users/donha/AppData/Local/Temp/70c682f07f84a2d43a3e7ae7095a29da/Packages/packages-lock.json
+    m_FilePath: C:/git/Unity_Study/New Unity Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637703285871805958
-    m_Hash: 2573674203
+      ticks: 637857810042676895
+    m_Hash: 737861715
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.sprite@1.0.0
-      testable: 0
-      isDirectDependency: 1
-      version: 1.0.0
-      source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.2d.sprite@1.0.0
-      assetPath: Packages/com.unity.2d.sprite
-      name: com.unity.2d.sprite
-      displayName: 2D Sprite
-      author:
-        name: 
-        email: 
-        url: 
-      category: 2D
-      type: 
-      description: Use Unity Sprite Editor Window to create and edit Sprite asset
-        properties like pivot, borders and Physics shape
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.0
-        compatible:
-        - 1.0.0
-        verified: 1.0.0
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - 2d
-      - sprite
-      - sprite editor window
-      registry:
-        id: 
-        name: 
-        url: 
-        scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 0
-      documentationUrl: 
-      hasRepository: 0
-      repository:
-        type: 
-        url: 
-        revision: 
-        path: 
-    - packageId: com.unity.cinemachine@2.6.5
-      testable: 0
-      isDirectDependency: 1
-      version: 2.6.5
-      source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.cinemachine@2.6.5
-      assetPath: Packages/com.unity.cinemachine
-      name: com.unity.cinemachine
-      displayName: Cinemachine
-      author:
-        name: 
-        email: 
-        url: 
-      category: cinematography
-      type: 
-      description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
-        If you are upgrading from the Asset Store version of Cinemachine, delete
-        the Cinemachine asset from your project BEFORE installing this version from
-        the Package Manager."
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 2.1.11-beta.1
-        - 2.1.12
-        - 2.1.13
-        - 2.2.0
-        - 2.2.7
-        - 2.2.8
-        - 2.2.9
-        - 2.2.10-preview.3
-        - 2.2.10-preview.4
-        - 2.3.1
-        - 2.3.3
-        - 2.3.4
-        - 2.3.5-preview.3
-        - 2.4.0-preview.3
-        - 2.4.0-preview.4
-        - 2.4.0-preview.6
-        - 2.4.0-preview.7
-        - 2.4.0-preview.8
-        - 2.4.0-preview.9
-        - 2.4.0-preview.10
-        - 2.4.0
-        - 2.5.0
-        - 2.6.0-preview.2
-        - 2.6.0-preview.3
-        - 2.6.0-preview.5
-        - 2.6.0-preview.8
-        - 2.6.0
-        - 2.6.1-preview.6
-        - 2.6.1
-        - 2.6.2-preview.1
-        - 2.6.2
-        - 2.6.3-preview.2
-        - 2.6.3
-        - 2.6.4
-        - 2.6.5
-        - 2.6.10
-        - 2.7.1
-        - 2.7.2
-        - 2.7.3
-        - 2.7.4
-        - 2.8.0-exp.1
-        - 2.8.0-exp.2
-        - 2.8.0-pre.1
-        compatible:
-        - 2.5.0
-        - 2.6.0-preview.2
-        - 2.6.0-preview.3
-        - 2.6.0-preview.5
-        - 2.6.0-preview.8
-        - 2.6.0
-        - 2.6.1-preview.6
-        - 2.6.1
-        - 2.6.2-preview.1
-        - 2.6.2
-        - 2.6.3-preview.2
-        - 2.6.3
-        - 2.6.4
-        - 2.6.5
-        - 2.6.10
-        - 2.7.1
-        - 2.7.2
-        - 2.7.3
-        - 2.7.4
-        - 2.8.0-exp.1
-        - 2.8.0-exp.2
-        - 2.8.0-pre.1
-        verified: 2.6.10
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - camera
-      - follow
-      - rig
-      - fps
-      - cinematography
-      - aim
-      - orbit
-      - cutscene
-      - cinematic
-      - collision
-      - freelook
-      - cinemachine
-      - compose
-      - composition
-      - dolly
-      - track
-      - clearshot
-      - noise
-      - framing
-      - handheld
-      - lens
-      - impulse
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637578244570000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.cinemachine.git
-        revision: c12b97ec35ab5091c685e729b76980a69a6d39a1
-        path: 
     - packageId: com.unity.collab-proxy@1.11.2
       testable: 0
       isDirectDependency: 1
       version: 1.11.2
       source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.collab-proxy@1.11.2
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.11.2
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -229,9 +43,57 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.2.3-preview
+        - 1.2.4-preview
+        - 1.2.6
+        - 1.2.7
+        - 1.2.9
+        - 1.2.11
+        - 1.2.15
+        - 1.2.16
+        - 1.2.17-preview.3
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.3.8
+        - 1.3.9
+        - 1.4.9
+        - 1.5.7
+        - 1.6.0
+        - 1.7.1
+        - 1.8.0
+        - 1.9.0
+        - 1.10.2
         - 1.11.2
+        - 1.12.5
+        - 1.13.5
+        - 2.0.0-preview.6
+        - 2.0.0-preview.8
+        - 2.0.0-preview.15
+        - 2.0.0-preview.17
+        - 2.0.0-preview.20
+        - 2.0.0-preview.21
+        - 2.0.0-preview.22
+        - 2.1.0-preview.3
+        - 2.1.0-preview.5
+        - 2.1.0-preview.6
         compatible:
         - 1.11.2
+        - 1.12.5
+        - 1.13.5
+        - 2.0.0-preview.6
+        - 2.0.0-preview.8
+        - 2.0.0-preview.15
+        - 2.0.0-preview.17
+        - 2.0.0-preview.20
+        - 2.0.0-preview.21
+        - 2.0.0-preview.22
+        - 2.1.0-preview.3
+        - 2.1.0-preview.5
+        - 2.1.0-preview.6
         verified: 1.11.2
       dependencies: []
       resolvedDependencies: []
@@ -261,7 +123,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637679178630000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -269,125 +131,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
         revision: 3bc7fe2ab9acbe4538785fec6100ac17fe9e8da5
         path: 
-    - packageId: com.unity.connect.share@4.1.1
-      testable: 0
-      isDirectDependency: 1
-      version: 4.1.1
-      source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.connect.share@4.1.1
-      assetPath: Packages/com.unity.connect.share
-      name: com.unity.connect.share
-      displayName: WebGL Publisher
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: This tool allows you to make a WebGL build of your current project
-        and upload it to Unity's website, where it can be shared with others.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.0-preview
-        - 1.0.1-preview
-        - 1.0.2-preview
-        - 1.0.3-preview
-        - 1.0.4-preview
-        - 1.0.5-preview
-        - 1.0.6-preview.2
-        - 1.0.7-preview
-        - 1.0.8-preview
-        - 1.0.9-preview
-        - 1.0.10-preview
-        - 1.1.0-preview.1
-        - 1.2.0-preview.1
-        - 2.0.1-preview
-        - 2.0.2-preview.3
-        - 2.0.2-preview.4
-        - 2.0.3
-        - 2.0.5
-        - 2.0.6
-        - 2.1.0
-        - 3.0.0
-        - 4.0.1
-        - 4.0.2
-        - 4.0.3
-        - 4.1.0
-        - 4.1.1
-        - 4.2.1
-        - 4.2.2
-        compatible:
-        - 1.0.0-preview
-        - 1.0.1-preview
-        - 1.0.2-preview
-        - 1.0.3-preview
-        - 1.0.4-preview
-        - 1.0.5-preview
-        - 1.0.6-preview.2
-        - 1.0.7-preview
-        - 1.0.8-preview
-        - 1.0.9-preview
-        - 1.0.10-preview
-        - 1.1.0-preview.1
-        - 1.2.0-preview.1
-        - 2.0.1-preview
-        - 2.0.2-preview.3
-        - 2.0.2-preview.4
-        - 2.0.3
-        - 2.0.5
-        - 2.0.6
-        - 2.1.0
-        - 3.0.0
-        - 4.0.1
-        - 4.0.2
-        - 4.0.3
-        - 4.1.0
-        - 4.1.1
-        - 4.2.1
-        - 4.2.2
-        verified: 
-      dependencies:
-      - name: com.unity.editorcoroutines
-        version: 1.0.0
-      - name: com.unity.settings-manager
-        version: 1.0.2
-      resolvedDependencies:
-      - name: com.unity.editorcoroutines
-        version: 1.0.0
-      - name: com.unity.settings-manager
-        version: 1.0.3
-      keywords:
-      - webgl
-      - share
-      - connect
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637468346850000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.connect.share.git
-        revision: c4a6cf2baf5f9479da3e7e8ec79d8df7f4962e7c
-        path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -404,9 +153,57 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.2
+        - 1.0.6
+        - 1.0.8
+        - 1.1.0
+        - 1.1.1
+        - 1.1.2-preview
+        - 1.1.2-preview.2
+        - 1.1.3-preview.1
+        - 1.1.4-preview
+        - 1.1.4
+        - 1.2.0-preview
+        - 1.2.1
+        - 2.0.0-preview
+        - 2.0.1
+        - 2.0.2
+        - 2.0.3
+        - 2.0.5
         - 2.0.7
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.0.4
+        - 3.0.5
+        - 3.0.6
+        - 3.0.7
         compatible:
+        - 1.0.2
+        - 1.0.6
+        - 1.0.8
+        - 1.1.0
+        - 1.1.1
+        - 1.1.2-preview
+        - 1.1.2-preview.2
+        - 1.1.3-preview.1
+        - 1.1.4-preview
+        - 1.1.4
+        - 1.2.0-preview
+        - 1.2.1
+        - 2.0.0-preview
+        - 2.0.1
+        - 2.0.2
+        - 2.0.3
+        - 2.0.5
         - 2.0.7
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.0.4
+        - 3.0.5
+        - 3.0.6
+        - 3.0.7
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -433,7 +230,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637334461080000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -446,7 +243,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.11
       source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -463,8 +260,36 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.2
+        - 1.0.3
+        - 1.0.4
+        - 1.0.9
+        - 1.0.10
+        - 1.0.11
+        - 2.0.0
+        - 2.0.1
+        - 2.0.2
+        - 2.0.3
+        - 2.0.5
+        - 2.0.7
+        - 2.0.8
+        - 2.0.9
         - 2.0.11
         compatible:
+        - 1.0.2
+        - 1.0.3
+        - 1.0.4
+        - 1.0.9
+        - 1.0.10
+        - 1.0.11
+        - 2.0.0
+        - 2.0.1
+        - 2.0.2
+        - 2.0.3
+        - 2.0.5
+        - 2.0.7
+        - 2.0.8
+        - 2.0.9
         - 2.0.11
         verified: 2.0.11
       dependencies:
@@ -492,7 +317,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637613656180000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -505,7 +330,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.4
       source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.ide.vscode@1.2.4
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.ide.vscode@1.2.4
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -522,8 +347,30 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.2
+        - 1.0.3
+        - 1.0.7
+        - 1.1.0
+        - 1.1.2
+        - 1.1.3
+        - 1.1.4
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
         - 1.2.4
         compatible:
+        - 1.0.2
+        - 1.0.3
+        - 1.0.7
+        - 1.1.0
+        - 1.1.2
+        - 1.1.3
+        - 1.1.4
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
         - 1.2.4
         verified: 1.2.4
       dependencies: []
@@ -541,393 +388,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637660806170000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: https://github.com/Unity-Technologies/com.unity.ide.vscode.git
+        url: git+https://github.com/Unity-Technologies/com.unity.ide.vscode.git
         revision: 1f4f605d5c988cb610c372b5c5216c46cc8f5d30
-        path: 
-    - packageId: com.unity.learn.iet-framework@1.2.3
-      testable: 0
-      isDirectDependency: 1
-      version: 1.2.3
-      source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.learn.iet-framework@1.2.3
-      assetPath: Packages/com.unity.learn.iet-framework
-      name: com.unity.learn.iet-framework
-      displayName: Tutorial Framework
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: This package is used to display interactive in-Editor tutorials
-        in tutorial projects and project templates. This package is meant to be used
-        only by Unity internally.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.1.4-preview
-        - 0.1.8-preview
-        - 0.1.10-preview
-        - 0.1.12-preview.2
-        - 0.1.13-preview
-        - 0.1.14-preview
-        - 0.1.15-preview
-        - 0.1.16-preview
-        - 0.1.17-preview
-        - 0.1.18-preview
-        - 0.2.0-preview.1
-        - 0.2.1-preview.1
-        - 0.2.2-preview
-        - 0.2.3-preview.1
-        - 0.3.0-preview.5
-        - 0.4.0-preview.1
-        - 0.5.0-preview.2
-        - 0.5.1-preview
-        - 0.5.1-preview.1
-        - 1.0.0
-        - 1.0.1
-        - 1.0.2
-        - 1.0.3-preview.1
-        - 1.0.3-preview.2
-        - 1.0.3
-        - 1.1.0-preview.2
-        - 1.1.0-preview.3
-        - 1.1.0-preview.4
-        - 1.1.0
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
-        - 1.2.3
-        - 2.0.0-pre.1
-        - 2.0.0-pre.3
-        - 2.0.0-pre.4
-        - 2.0.0-pre.5
-        compatible:
-        - 0.1.4-preview
-        - 0.1.8-preview
-        - 0.1.10-preview
-        - 0.1.12-preview.2
-        - 0.1.13-preview
-        - 0.1.14-preview
-        - 0.1.15-preview
-        - 0.1.16-preview
-        - 0.1.17-preview
-        - 0.1.18-preview
-        - 0.2.0-preview.1
-        - 0.2.1-preview.1
-        - 0.2.2-preview
-        - 0.2.3-preview.1
-        - 0.3.0-preview.5
-        - 0.4.0-preview.1
-        - 0.5.0-preview.2
-        - 0.5.1-preview
-        - 0.5.1-preview.1
-        - 1.0.0
-        - 1.0.1
-        - 1.0.2
-        - 1.0.3-preview.1
-        - 1.0.3-preview.2
-        - 1.0.3
-        - 1.1.0-preview.2
-        - 1.1.0-preview.3
-        - 1.1.0-preview.4
-        - 1.1.0
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
-        - 1.2.3
-        - 2.0.0-pre.1
-        - 2.0.0-pre.3
-        - 2.0.0-pre.4
-        - 2.0.0-pre.5
-        verified: 
-      dependencies:
-      - name: com.unity.editorcoroutines
-        version: 1.0.0
-      - name: com.unity.settings-manager
-        version: 1.0.2
-      resolvedDependencies:
-      - name: com.unity.editorcoroutines
-        version: 1.0.0
-      - name: com.unity.settings-manager
-        version: 1.0.3
-      keywords:
-      - tutorials
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637504962200000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/iet-package.git
-        revision: d8844989d65f92c6dede187e8149d129ac4f6a41
-        path: 
-    - packageId: com.unity.lego.materials@2.2.0
-      testable: 0
-      isDirectDependency: 1
-      version: 2.2.0
-      source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.lego.materials@2.2.0
-      assetPath: Packages/com.unity.lego.materials
-      name: com.unity.lego.materials
-      displayName: LEGO Materials
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: A complete library of all past and current LEGO Materials used
-        in the physical sets.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.0
-        - 1.1.0
-        - 1.2.0-preview.1
-        - 2.0.0
-        - 2.0.1-preview.1
-        - 2.1.0
-        - 2.2.0
-        compatible:
-        - 1.0.0
-        - 1.1.0
-        - 1.2.0-preview.1
-        - 2.0.0
-        - 2.0.1-preview.1
-        - 2.1.0
-        - 2.2.0
-        verified: 
-      dependencies: []
-      resolvedDependencies: []
-      keywords: []
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637606633990000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.lego.materials.git
-        revision: f4b48e1193c8a8c262a19097d7716689418d8f05
-        path: 
-    - packageId: com.unity.lego.modelimporter@5.0.1
-      testable: 0
-      isDirectDependency: 1
-      version: 5.0.1
-      source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.lego.modelimporter@5.0.1
-      assetPath: Packages/com.unity.lego.modelimporter
-      name: com.unity.lego.modelimporter
-      displayName: LEGO Model Importer
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: "This package allows you to render LEGO bricks on the screen by:\n\n\u25AA
-        Import models from LXFML or LDraw\n\u25AA Various optimization options\n\u25AA
-        Shaders"
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.0
-        - 2.0.0
-        - 2.0.1
-        - 2.1.0
-        - 2.2.0-preview.1
-        - 2.2.0-preview.2
-        - 2.2.0-preview.3
-        - 2.2.0-preview.8
-        - 2.2.0-preview.9
-        - 2.2.0-preview.10
-        - 2.2.0-preview.11
-        - 2.2.0-preview.13
-        - 3.0.0
-        - 3.0.1-preview.1
-        - 3.0.1
-        - 3.0.2-preview.1
-        - 3.0.2
-        - 3.0.3-preview.1
-        - 3.0.3-preview.2
-        - 3.0.3-preview.3
-        - 3.0.3-preview.4
-        - 3.0.3-preview.5
-        - 3.0.3
-        - 3.1.0-preview.1
-        - 3.1.0-preview.2
-        - 3.1.0-preview.3
-        - 3.2.0
-        - 3.3.0-preview.1
-        - 4.0.0
-        - 4.1.0-preview.1
-        - 5.0.0
-        - 5.0.1
-        compatible:
-        - 1.0.0
-        - 2.0.0
-        - 2.0.1
-        - 2.1.0
-        - 2.2.0-preview.1
-        - 2.2.0-preview.2
-        - 2.2.0-preview.3
-        - 2.2.0-preview.8
-        - 2.2.0-preview.9
-        - 2.2.0-preview.10
-        - 2.2.0-preview.11
-        - 2.2.0-preview.13
-        - 3.0.0
-        - 3.0.1-preview.1
-        - 3.0.1
-        - 3.0.2-preview.1
-        - 3.0.2
-        - 3.0.3-preview.1
-        - 3.0.3-preview.2
-        - 3.0.3-preview.3
-        - 3.0.3-preview.4
-        - 3.0.3-preview.5
-        - 3.0.3
-        - 3.1.0-preview.1
-        - 3.1.0-preview.2
-        - 3.1.0-preview.3
-        - 3.2.0
-        - 3.3.0-preview.1
-        - 4.0.0
-        - 4.1.0-preview.1
-        - 5.0.0
-        - 5.0.1
-        verified: 
-      dependencies:
-      - name: com.unity.textmeshpro
-        version: 3.0.4
-      - name: com.unity.lego.materials
-        version: 2.2.0
-      resolvedDependencies:
-      - name: com.unity.textmeshpro
-        version: 3.0.6
-      - name: com.unity.ugui
-        version: 1.0.0
-      - name: com.unity.modules.ui
-        version: 1.0.0
-      - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.lego.materials
-        version: 2.2.0
-      keywords: []
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637606723380000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.lego.modelimporter.git
-        revision: da9e1e9a3c6b7a984bf8c055515169af34099c33
-        path: 
-    - packageId: com.unity.settings-manager@1.0.3
-      testable: 0
-      isDirectDependency: 1
-      version: 1.0.3
-      source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.settings-manager@1.0.3
-      assetPath: Packages/com.unity.settings-manager
-      name: com.unity.settings-manager
-      displayName: Settings Manager
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: A framework for making any serializable field a setting, complete
-        with a pre-built settings interface.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.1.0-preview.4
-        - 0.1.0-preview.8
-        - 1.0.0
-        - 1.0.1
-        - 1.0.2
-        - 1.0.3
-        compatible:
-        - 0.1.0-preview.4
-        - 0.1.0-preview.8
-        - 1.0.0
-        - 1.0.1
-        - 1.0.2
-        - 1.0.3
-        verified: 1.0.3
-      dependencies: []
-      resolvedDependencies: []
-      keywords: []
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637300096300000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
-        revision: 473664ccba1496294b741cf169740a5d54b3d0b6
         path: 
     - packageId: com.unity.test-framework@1.1.29
       testable: 0
       isDirectDependency: 1
       version: 1.1.29
       source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.test-framework@1.1.29
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.test-framework@1.1.29
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -942,10 +416,42 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.0.4-preview
+        - 0.0.29-preview
+        - 1.0.0
+        - 1.0.7
+        - 1.0.9
+        - 1.0.11
+        - 1.0.12
+        - 1.0.13
+        - 1.0.14
+        - 1.0.16
+        - 1.0.17
+        - 1.0.18
+        - 1.1.0
+        - 1.1.1
+        - 1.1.2
+        - 1.1.3
+        - 1.1.5
+        - 1.1.8
+        - 1.1.9
+        - 1.1.11
+        - 1.1.13
+        - 1.1.14
+        - 1.1.16
+        - 1.1.18
+        - 1.1.19
+        - 1.1.20
+        - 1.1.22
+        - 1.1.24
+        - 1.1.26
+        - 1.1.27
         - 1.1.29
+        - 1.1.30
         compatible:
         - 1.1.29
-        verified: 1.1.29
+        - 1.1.30
+        verified: 1.1.30
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -975,12 +481,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637647922650000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: dac53542acdab7a12e9ebf111ac588d0e53cf483
         path: 
     - packageId: com.unity.textmeshpro@3.0.6
@@ -988,7 +494,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1061,6 +567,7 @@ m_PackageAssets:
         - 1.5.4
         - 1.5.5
         - 1.5.6
+        - 1.6.0-preview.1
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.1
@@ -1082,6 +589,7 @@ m_PackageAssets:
         - 2.1.4
         - 2.1.5
         - 2.1.6
+        - 2.2.0-preview.1
         - 3.0.0-preview.1
         - 3.0.0-preview.3
         - 3.0.0-preview.4
@@ -1099,8 +607,10 @@ m_PackageAssets:
         - 3.0.4
         - 3.0.5
         - 3.0.6
+        - 3.2.0-pre.1
         compatible:
         - 3.0.6
+        - 3.2.0-pre.1
         verified: 3.0.6
       dependencies:
       - name: com.unity.ugui
@@ -1143,7 +653,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1159,9 +669,92 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.2.0
+        - 1.2.1
+        - 1.2.2
+        - 1.2.3
+        - 1.2.4
+        - 1.2.5
+        - 1.2.6
+        - 1.2.7
+        - 1.2.9
+        - 1.2.10
+        - 1.2.11
+        - 1.2.12
+        - 1.2.13
+        - 1.2.14
+        - 1.2.15
+        - 1.2.16
+        - 1.2.17
+        - 1.2.18
+        - 1.3.0-preview.2
+        - 1.3.0-preview.3
+        - 1.3.0-preview.5
+        - 1.3.0-preview.6
+        - 1.3.0-preview.7
+        - 1.3.0
+        - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.6
+        - 1.3.7
+        - 1.4.0-preview.1
+        - 1.4.0-preview.2
+        - 1.4.0-preview.3
+        - 1.4.0-preview.5
+        - 1.4.0-preview.6
+        - 1.4.0-preview.7
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4
+        - 1.4.5
+        - 1.4.6
+        - 1.4.7
         - 1.4.8
+        - 1.5.0-pre.2
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.1-pre.1
+        - 1.5.1-pre.2
+        - 1.5.1-pre.3
+        - 1.5.2
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        - 1.6.1
+        - 1.6.2
         compatible:
         - 1.4.8
+        - 1.5.0-pre.2
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.1-pre.1
+        - 1.5.1-pre.2
+        - 1.5.1-pre.3
+        - 1.5.2
+        - 1.5.4
+        - 1.5.5
+        - 1.5.6
+        - 1.6.0-pre.1
+        - 1.6.0-pre.3
+        - 1.6.0-pre.4
+        - 1.6.0-pre.5
+        - 1.6.1
+        - 1.6.2
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
@@ -1199,7 +792,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637557616100000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -1212,7 +805,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.ugui@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.ugui@1.0.0
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1275,7 +868,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.ai@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.ai@1.0.0
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1323,7 +916,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.androidjni@1.0.0
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1371,7 +964,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.animation@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1419,7 +1012,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1467,7 +1060,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.audio@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1515,7 +1108,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.cloth@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.cloth@1.0.0
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1567,7 +1160,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.director@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1623,7 +1216,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1672,7 +1265,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.imgui@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.imgui@1.0.0
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -1720,7 +1313,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -1768,7 +1361,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -1816,7 +1409,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.physics@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.physics@1.0.0
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -1864,7 +1457,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.physics2d@1.0.0
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -1912,7 +1505,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.screencapture@1.0.0
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -1964,7 +1557,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.terrain@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.terrain@1.0.0
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2012,7 +1605,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2068,7 +1661,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.tilemap@1.0.0
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2120,7 +1713,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.ui@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.ui@1.0.0
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2168,7 +1761,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.uielements@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.uielements@1.0.0
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2232,7 +1825,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.umbra@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.umbra@1.0.0
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2280,7 +1873,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2336,7 +1929,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2384,7 +1977,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2440,7 +2033,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2496,7 +2089,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2552,7 +2145,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2624,7 +2217,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.vehicles@1.0.0
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2676,7 +2269,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.video@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.video@1.0.0
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -2736,7 +2329,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.vr@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.vr@1.0.0
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -2798,7 +2391,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.wind@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.wind@1.0.0
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -2846,7 +2439,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.xr@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.xr@1.0.0
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -2906,7 +2499,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.subsystems@1.0.0
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -2958,7 +2551,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3017,7 +2610,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\git\Unity_Study\New Unity Project\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3063,71 +2656,7 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
-    - packageId: com.unity.editorcoroutines@1.0.0
-      testable: 0
-      isDirectDependency: 0
-      version: 1.0.0
-      source: 1
-      resolvedPath: C:\Users\donha\AppData\Local\Temp\70c682f07f84a2d43a3e7ae7095a29da\Library\PackageCache\com.unity.editorcoroutines@1.0.0
-      assetPath: Packages/com.unity.editorcoroutines
-      name: com.unity.editorcoroutines
-      displayName: Editor Coroutines
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: 'The editor coroutines package allows developers to start constructs
-        similar to Unity''s monobehaviour based coroutines within the editor using
-        abitrary objects. '
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 0.0.1-preview.3
-        - 0.0.1-preview.4
-        - 0.0.1-preview.5
-        - 0.0.2-preview.1
-        - 0.1.0-preview.1
-        - 0.1.0-preview.2
-        - 1.0.0
-        compatible:
-        - 0.0.1-preview.3
-        - 0.0.1-preview.4
-        - 0.0.1-preview.5
-        - 0.0.2-preview.1
-        - 0.1.0-preview.1
-        - 0.1.0-preview.2
-        - 1.0.0
-        verified: 1.0.0
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - coroutine
-      - coroutines
-      - editor
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637232611380000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.editorcoroutines.git
-        revision: f67fc9992bbc7a553b17375de53a8b2db136528e
-        path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/donha/AppData/Local/Temp/70c682f07f84a2d43a3e7ae7095a29da/Packages
+m_ProjectPath: C:/git/Unity_Study/New Unity Project/Packages
 m_EditorVersion: 2020.3.20f1 (41c4e627c95f)

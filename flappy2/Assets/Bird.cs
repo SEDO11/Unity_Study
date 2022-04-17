@@ -18,5 +18,8 @@ public class Bird : MonoBehaviour
         if(Input.GetMouseButtonDown(0)){ //마우스 좌클릭
             rb.velocity = Vector2.up * jumpPower; //터치 하면 점프
         }
+        if(Input.GetKeyDown(KeyCode.Space)) { //키보드 스페이스를 눌렀을 때
+            rb.velocity = Vector2.up * jumpPower; //점프
+        }
     }
 }
